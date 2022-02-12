@@ -11,3 +11,6 @@ p {
 .italics li {
     font-style: italic;
 }
+ol li {
+    font-style: italic;
+}
