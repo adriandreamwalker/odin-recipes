@@ -8,3 +8,6 @@ h4 {
 p {
     font-style: italic;
 }
+.italics li {
+    font-style: italic;
+}
